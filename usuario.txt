@@ -1,4 +1,2 @@
-David
-Pablo
-la renga
-Cesar
+{"nombre":"David","apellido":"Clarra"}
+{"nombre":"Cesar","apellido":"Amarillo"}
