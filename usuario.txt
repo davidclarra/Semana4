@@ -1,2 +1,4 @@
 {"nombre":"David","apellido":"Clarra"}
 {"nombre":"Cesar","apellido":"Amarillo"}
+{"Nombre":"Cesar","Apellido":"Amarillo"}
+{"Nombre":"David","Apellido":"Clarra","Clave":"clx19840"}

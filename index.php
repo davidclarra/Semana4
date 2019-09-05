@@ -10,6 +10,9 @@
   <br>
   Apellido:<br>
   <input type="text" name="apellido" value="">
+  <br>
+  Clave:<br>
+  <input type="text" name="clave" value="">
   <br><br>
   <input type="submit" value="Enviar">
 </form> 

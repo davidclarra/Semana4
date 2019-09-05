@@ -6,8 +6,9 @@
 //echo "Su nombre es ".$_GET['nombre']; //trae el nombre ingresado
 
 $miobjeto = new stdClass();
-$miobjeto->nombre=$_GET['nombre'];
-$miobjeto->apellido=$_GET['apellido'];
+$miobjeto->Nombre=$_GET['nombre'];
+$miobjeto->Apellido=$_GET['apellido'];
+$miobjeto->Clave=$_GET['clave'];
 var_dump(json_encode($miobjeto));
 
 $archivo=fopen('usuario.txt', 'a'); //crea un archivo usuario.txt 'a' abre el archivo e ingresa datos
